@@ -1,34 +1,24 @@
-# Project 3D - Portfolio
+## Author: Angry Red
 
-This was my first project using Vite. Initially made using tutorial of [JavaScipt Mastery](https://youtu.be/0fYi8SGA20k?feature=shared).
+## ✅ Turning Your Dreams into Reality | Software Dev ✅
 
-Work done on it other than the tutorial:-
+![image](https://avatars.githubusercontent.com/u/200478865?v=4&size=64)
 
-- Removed unused CSS.
-- Removed Extra Animations.
-- Made UI Faster.
-- Added a Resume Button (Where you can put a link to your resume).
-- Enhanced Visibility and solved Responsive UI Problems.
+## How to contact me:
 
-This Project is hosted in Netlify : [3D Portfolio](https://my-portfolio-mh.vercel.app/)
+- Email: angryred027@gmail.com
+- Skype: live:.cid.4f07b4baba302883
+- GitHub: angryred027
 
-## :star: Give A Star
+## Version: 0.0.1 (2024/12/30 - tested dev version)
 
-You can also give this repository a star to show more people and they can use this repository.
+## Getting Started
 
-# Getting Started
+## 1. Install Dependencies
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+pnpm install
 
-Prerequisites
-Before you start, make sure you have the following software installed on your computer:
+## 2. Start the Development Server
 
-The website should now be up and running on http://localhost:3000.
+pnpm run dev
 
-## 🗒️ Authors
-
-- Minato Hayashi
-
-## Date
-
-2025 / 01 / 27
